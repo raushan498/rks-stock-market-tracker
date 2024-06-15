@@ -1,0 +1,26 @@
+{
+  "name": "rks-stock-market-tracker",
+  "version": "1.0.0",
+  "description": "An npm package to track the price of stock in Dollars as well as Rupees.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raushan498/rks-stock-market-tracker.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Raushan Kumar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/raushan498/rks-stock-market-tracker/issues"
+  },
+  "homepage": "https://github.com/raushan498/rks-stock-market-tracker#readme",
+  "dependencies": {
+    "rks-currency-converter": "^1.0.0"
+  }
+}
